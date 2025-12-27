@@ -1,0 +1,3 @@
+/Users/simka/CLionProjects/dz-repititir/generate_2.0/cmake-build-debug/CMakeFiles/generate_2_0.dir
+/Users/simka/CLionProjects/dz-repititir/generate_2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simka/CLionProjects/dz-repititir/generate_2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
